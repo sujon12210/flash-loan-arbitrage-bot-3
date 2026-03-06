@@ -1,0 +1,12 @@
+{
+  "networks": {
+    "polygon": {
+      "poolAddressesProvider": "0xa97684ead0e451190105f512cc803b6a9390c487",
+      "weth": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+    },
+    "mainnet": {
+      "poolAddressesProvider": "0x2f39d218133AFaB8F2B819B1066c7E434Ad94E9e",
+      "weth": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    }
+  }
+}
